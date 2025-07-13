@@ -11,4 +11,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://o-ohi-code.tistory.com/70' target='_blank'>gradle 빌드 오류 완벽 분석</a></li><li><a href='https://o-ohi-code.tistory.com/69' target='_blank'>[일본어] JLPT N1 한자 정리 [3]</a></li><li><a href='https://o-ohi-code.tistory.com/68' target='_blank'>[일본어] JLPT N1 한자 정리 [2]</a></li><li><a href='https://o-ohi-code.tistory.com/66' target='_blank'>[일본어] JLPT N1 한자 정리[1]</a></li><li><a href='https://o-ohi-code.tistory.com/53' target='_blank'>프론트엔드 아키텍처(Architecture)란?</a></li></ul>
+<ul><li><a href='https://o-ohi-code.tistory.com/70' target='_blank'>gradle 빌드 오류 완벽 분석</a></li><li><a href='https://o-ohi-code.tistory.com/53' target='_blank'>프론트엔드 아키텍처(Architecture)란?</a></li><li><a href='https://o-ohi-code.tistory.com/46' target='_blank'>네트워크 기본 지식</a></li><li><a href='https://o-ohi-code.tistory.com/29' target='_blank'>[Oracle] dmp 추출/ dmp 설치</a></li><li><a href='https://o-ohi-code.tistory.com/8' target='_blank'>Google 소셜 로그인 구현하는 방법</a></li></ul>
